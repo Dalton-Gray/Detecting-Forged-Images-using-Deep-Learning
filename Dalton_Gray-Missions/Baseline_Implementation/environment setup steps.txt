@@ -1,0 +1,8 @@
+1. Open terminal and move to the environment.yml file.
+
+2. Then create a virtual environment by typing the below command:
+conda env create -f environment.yml
+( Note : “kerasflaskapi” is the name of the virtual environment.)
+
+3. Activate virtual environment by typing the below command in terminal:
+conda activate kerasflaskapi (All the dependencies will be installed)
