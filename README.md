@@ -16,6 +16,5 @@ I reccomend to use the provided environment.yml file, but the dependencies for t
 
 ### Project Structure
 1. Baseline Implementation
-	* test
 2. Application Programming Interface (API) 
 
